@@ -1,8 +1,6 @@
 # Mirkomil
 Creating AWS Web Application
 
-Here is link to youtube video: https://youtu.be/SqgRhNK9wEo?si=AssiwpO86vJrKSIn
-
 **Step 1: Create an EC2 Instance**
   1.Log in to your AWS Management Console.
   
